@@ -12,10 +12,10 @@ In the maze matrix, 0 means the block is a dead end and 1 means the block can be
 
 ## Team members
 
--Moaaz Mahmoud
--Mostafa Mahmoud
--Nada Kamel
--Menna Mansour
--Menna Sherif
--Yasmin Ahmed
+--Moaaz Mahmoud
+--Mostafa Mahmoud
+--Nada Kamel
+--Menna Mansour
+--Menna Sherif
+--Yasmin Ahmed
 
